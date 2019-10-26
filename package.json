@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config-planes",
+  "version": "1.0.0",
+  "description": "Our shared prettier config ⭐️",
+  "main": ".prettierrc.json",
+  "repository": "https://github.com/teamplanes/prettier-config-planes.git",
+  "author": "Planes",
+  "license": "MIT"
+}
